@@ -11,5 +11,5 @@ Favorit dan Bookmark
 Fitur Berbagi Resep
 Fitur Rate
 
-#Link_Video
+Link Video Progress 2
 https://drive.google.com/drive/folders/1gCBNiSXo8MITg_Fq00EhP0TV1TkHbaHN 
